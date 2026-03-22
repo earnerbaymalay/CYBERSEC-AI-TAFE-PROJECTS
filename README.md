@@ -1,5 +1,4 @@
-# Advanced Cyber Security & AI Portfolio
-### Candidate: [Deadly Sing] | Location: Perth, WA (2026)
+# Advanced Cyber Security & AI (2026)
 
 This repository demonstrates the deployment of specialized security tools within a constrained, mobile-first environment (iSH/Alpine Linux on iOS). These projects highlight technical proficiency in Python, Bash, and Network Security.
 
