@@ -16,7 +16,7 @@ def analyze_logs(log_file):
         return
 
     # Use Gemini 3 Flash for low-latency threat processing on mobile hardware
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent"
     
     headers = {'Content-Type': 'application/json'}
     payload = {
